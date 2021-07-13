@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # next_word_prediction_streamlit
 A web app that is capable of predicting next word on it's own.
 
@@ -94,3 +95,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
  
+=======
+# Predict-Text-with-BERT
+Get text suggestion from pretrained BERT model
+>>>>>>> d2794e9ed43f63cb2aa59a2e62cd16c1c4310545
