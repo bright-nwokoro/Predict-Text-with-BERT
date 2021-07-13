@@ -2,3 +2,4 @@ activation.bat
 *log
 venv/
 .venv/
+.gitignore
